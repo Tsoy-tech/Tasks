@@ -1,0 +1,5 @@
+C:\Users\Tsoy\Desktop\Tasks\Task2\Task2\bin\Debug\netcoreapp3.1\publish\Task2.exe
+C:\Users\Tsoy\Desktop\Tasks\Task2\Task2\bin\Debug\netcoreapp3.1\publish\Task2.dll
+C:\Users\Tsoy\Desktop\Tasks\Task2\Task2\bin\Debug\netcoreapp3.1\publish\Task2.deps.json
+C:\Users\Tsoy\Desktop\Tasks\Task2\Task2\bin\Debug\netcoreapp3.1\publish\Task2.runtimeconfig.json
+C:\Users\Tsoy\Desktop\Tasks\Task2\Task2\bin\Debug\netcoreapp3.1\publish\Task2.pdb
