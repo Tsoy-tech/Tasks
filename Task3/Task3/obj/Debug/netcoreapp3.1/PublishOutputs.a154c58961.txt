@@ -1,0 +1,5 @@
+C:\Users\Tsoy\Desktop\Task3\Task3.exe
+C:\Users\Tsoy\Desktop\Task3\Task3.dll
+C:\Users\Tsoy\Desktop\Task3\Task3.deps.json
+C:\Users\Tsoy\Desktop\Task3\Task3.runtimeconfig.json
+C:\Users\Tsoy\Desktop\Task3\Task3.pdb
