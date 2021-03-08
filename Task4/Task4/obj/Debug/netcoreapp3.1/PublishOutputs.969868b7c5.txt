@@ -1,0 +1,5 @@
+C:\Users\Tsoy\Desktop\Git\Tasks\Task4\Task4\bin\Debug\netcoreapp3.1\publish\Task4.exe
+C:\Users\Tsoy\Desktop\Git\Tasks\Task4\Task4\bin\Debug\netcoreapp3.1\publish\Task4.dll
+C:\Users\Tsoy\Desktop\Git\Tasks\Task4\Task4\bin\Debug\netcoreapp3.1\publish\Task4.deps.json
+C:\Users\Tsoy\Desktop\Git\Tasks\Task4\Task4\bin\Debug\netcoreapp3.1\publish\Task4.runtimeconfig.json
+C:\Users\Tsoy\Desktop\Git\Tasks\Task4\Task4\bin\Debug\netcoreapp3.1\publish\Task4.pdb

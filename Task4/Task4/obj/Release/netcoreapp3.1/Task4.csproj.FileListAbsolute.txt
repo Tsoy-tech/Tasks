@@ -1,0 +1,13 @@
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\bin\Release\netcoreapp3.1\Task4.exe
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\bin\Release\netcoreapp3.1\Task4.deps.json
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\bin\Release\netcoreapp3.1\Task4.runtimeconfig.json
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\bin\Release\netcoreapp3.1\Task4.runtimeconfig.dev.json
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\bin\Release\netcoreapp3.1\Task4.dll
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\bin\Release\netcoreapp3.1\Task4.pdb
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\obj\Release\netcoreapp3.1\Task4.csprojAssemblyReference.cache
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\obj\Release\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\obj\Release\netcoreapp3.1\Task4.AssemblyInfo.cs
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\obj\Release\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\obj\Release\netcoreapp3.1\Task4.dll
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\obj\Release\netcoreapp3.1\Task4.pdb
+C:\Users\Tsoy\Desktop\Tasks\Task4\Task4\obj\Release\netcoreapp3.1\Task4.genruntimeconfig.cache
